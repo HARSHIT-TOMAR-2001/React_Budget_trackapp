@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Budget_trackapp/static/css/main.e11fa819.chunk.css",
+    "main.js": "/React_Budget_trackapp/static/js/main.acb24343.chunk.js",
+    "main.js.map": "/React_Budget_trackapp/static/js/main.acb24343.chunk.js.map",
+    "runtime-main.js": "/React_Budget_trackapp/static/js/runtime-main.3a9c048d.js",
+    "runtime-main.js.map": "/React_Budget_trackapp/static/js/runtime-main.3a9c048d.js.map",
+    "static/js/2.fe34b3f6.chunk.js": "/React_Budget_trackapp/static/js/2.fe34b3f6.chunk.js",
+    "static/js/2.fe34b3f6.chunk.js.map": "/React_Budget_trackapp/static/js/2.fe34b3f6.chunk.js.map",
+    "index.html": "/React_Budget_trackapp/index.html",
+    "static/css/main.e11fa819.chunk.css.map": "/React_Budget_trackapp/static/css/main.e11fa819.chunk.css.map",
+    "static/js/2.fe34b3f6.chunk.js.LICENSE.txt": "/React_Budget_trackapp/static/js/2.fe34b3f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9c048d.js",
+    "static/js/2.fe34b3f6.chunk.js",
+    "static/css/main.e11fa819.chunk.css",
+    "static/js/main.acb24343.chunk.js"
+  ]
+}
